@@ -1,0 +1,25 @@
+# API keys -- never commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Official thesis assignment page (contains student ID)
+Thesis_text/hr_*.pdf
+Thesis_text/zadatak.pdf
+
+# LaTeX build output
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+*.fls
+*.fdb_latexmk

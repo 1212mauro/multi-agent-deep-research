@@ -1,0 +1,6 @@
+autogen-agentchat>=0.5.4,<0.7
+autogen-ext[openai]>=0.5.4,<0.7
+requests
+beautifulsoup4
+html2text
+python-dotenv
